@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/worldmap.png</file>
+        <file>images/maze1.png</file>
+        <file>images/maze2.png</file>
+        <file>images/maze3.png</file>
+        <file>images/worldmap4.png</file>
+        <file>images/test1.png</file>
+        <file>images/test2.png</file>
+        <file>images/image8x8.png</file>
+        <file>images/image4x4.png</file>
+        <file>other/AGoblinAppears-o2aV.ttf</file>
+        <file>images/potion.png</file>
+        <file>images/enem.png</file>
+        <file>images/health.png</file>
+        <file>images/protagonist.png</file>
+        <file>images/idlegif.gif</file>
+        <file>images/GrassTile.png</file>
+        <file>images/WaterTile.png</file>
+        <file>images/goblin_idle.gif</file>
+        <file>images/bg_image.jpg</file>
+        <file>images/bush.png</file>
+        <file>images/rocks.png</file>
+        <file>images/player.png</file>
+        <file>images/die_sprite.png</file>
+        <file>images/right_sprite.png</file>
+        <file>images/idlebt_sprite.png</file>
+        <file>images/attack_down.png</file>
+        <file>images/attack_right.png</file>
+        <file>images/attack_up.png</file>
+        <file>images/down_sprite.png</file>
+        <file>images/up_sprite.png</file>
+        <file>images/left_sprite.png</file>
+        <file>images/switch_icon.png</file>
+        <file>images/zoomIn_icon.png</file>
+        <file>images/zoomOut_icon.png</file>
+        <file>images/bg2.png</file>
+        <file>images/bg3.jpg</file>
+    </qresource>
+</RCC>
